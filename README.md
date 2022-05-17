@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksice&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksice&count_private=true&theme=synthwave)
